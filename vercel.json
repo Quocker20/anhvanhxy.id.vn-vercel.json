@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/html-assignment/", "destination": "https://web-technologies-online-services.vercel.app/" },
+    { "source": "/html-assignment/:match*", "destination": "https://web-technologies-online-services.vercel.app/:match*" }
+  ]
+}
