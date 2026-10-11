@@ -4,6 +4,9 @@
     { "source": "/html-assignment/", "destination": "https://html-assignment-tan.vercel.app/" },
     { "source": "/html-assignment/:match*", "destination": "https://html-assignment-tan.vercel.app/:match*" },
 
+    { "source": "/css-assignment/", "destination": "https://css-assignment-rho-weld.vercel.app/" },
+    { "source": "/css-assignment/:match*", "destination": "https://css-assignment-rho-weld.vercel.app/:match*" },
+
     { "source": "/", "destination": "https://html-assignment-tan.vercel.app/" },
     { "source": "/:match*", "destination": "https://html-assignment-tan.vercel.app/:match*" }
   ]
