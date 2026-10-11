@@ -18,6 +18,14 @@
       "destination": "https://cssassignment34.vercel.app/:match*"
     },
     {
+      "source": "/css-assignment-3-1/",
+      "destination": "https://web-technologies-online-services-as.vercel.app/"
+    },
+    {
+      "source": "/css-assignment-3-1/:match*",
+      "destination": "https://web-technologies-online-services-as.vercel.app/:match*"
+    },
+    {
       "source": "/",
       "destination": "https://html-assignment-tan.vercel.app/"
     },
