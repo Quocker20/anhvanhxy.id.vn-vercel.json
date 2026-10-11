@@ -26,6 +26,14 @@
       "destination": "https://web-technologies-online-services-as.vercel.app/:match*"
     },
     {
+      "source": "/css-assignment-3-2/",
+      "destination": "https://ast32.vercel.app/"
+    },
+    {
+      "source": "/css-assignment-3-2/:match*",
+      "destination": "https://ast32.vercel.app/:match*"
+    },
+    {
       "source": "/",
       "destination": "https://html-assignment-tan.vercel.app/"
     },
