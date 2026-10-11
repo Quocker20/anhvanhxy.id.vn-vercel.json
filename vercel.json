@@ -1,10 +1,10 @@
 {
   "trailingSlash": true,
   "rewrites": [
-    { "source": "/html-assignment/", "destination": "https://web-technologies-online-services.vercel.app/" },
-    { "source": "/html-assignment/:match*", "destination": "https://web-technologies-online-services.vercel.app/:match*" },
+    { "source": "/html-assignment/", "destination": "https://html-assignment-tan.vercel.app/" },
+    { "source": "/html-assignment/:match*", "destination": "https://html-assignment-tan.vercel.app/:match*" },
 
-    { "source": "/", "destination": "https://web-technologies-online-services.vercel.app/" },
-    { "source": "/:match*", "destination": "https://web-technologies-online-services.vercel.app/:match*" }
+    { "source": "/", "destination": "https://html-assignment-tan.vercel.app/" },
+    { "source": "/:match*", "destination": "https://html-assignment-tan.vercel.app/:match*" }
   ]
 }
