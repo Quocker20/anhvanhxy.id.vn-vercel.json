@@ -34,6 +34,14 @@
       "destination": "https://ast32.vercel.app/:match*"
     },
     {
+      "source": "/demo-nbp/",
+      "destination": "https://demo-nbp.vercel.app/"
+    },
+    {
+      "source": "/demo-nbp/:match*",
+      "destination": "https://demo-nbp.vercel.app/:match*"
+    },
+    {
       "source": "/",
       "destination": "https://html-assignment-tan.vercel.app/"
     },
