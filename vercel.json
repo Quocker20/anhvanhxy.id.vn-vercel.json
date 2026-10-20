@@ -26,6 +26,14 @@
       "destination": "https://web-technologies-online-services-as.vercel.app/:match*"
     },
     {
+      "source": "/nbp-present/",
+      "destination": "https://nbp-present.vercel.app/"
+    },
+    {
+      "source": "/nbp-present/:match*",
+      "destination": "https://nbp-present.vercel.app/:match*"
+    },
+    {
       "source": "/css-assignment-3-2/",
       "destination": "https://ast32.vercel.app/"
     },
