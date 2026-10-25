@@ -26,14 +26,6 @@
       "destination": "https://web-technologies-online-services-as.vercel.app/:match*"
     },
     {
-      "source": "/nbp-present/",
-      "destination": "https://nbp-present.vercel.app/"
-    },
-    {
-      "source": "/nbp-present/:match*",
-      "destination": "https://nbp-present.vercel.app/:match*"
-    },
-    {
       "source": "/css-assignment-3-2/",
       "destination": "https://ast32.vercel.app/"
     },
@@ -42,20 +34,20 @@
       "destination": "https://ast32.vercel.app/:match*"
     },
     {
-      "source": "/demo-nbp/",
-      "destination": "https://demo-nbp.vercel.app/"
-    },
-    {
-      "source": "/demo-nbp/:match*",
-      "destination": "https://demo-nbp.vercel.app/:match*"
-    },
-    {
       "source": "/js-assignment-4-2/",
       "destination": "https://assignment42-one.vercel.app/"
     },
     {
       "source": "/js-assignment-4-2/:match*",
       "destination": "https://assignment42-one.vercel.app/:match*"
+    },
+    {
+      "source": "/js-assignment-4-3/",
+      "destination": "https://assignment43-beta.vercel.app/"
+    },
+    {
+      "source": "/js-assignment-4-3/:match*",
+      "destination": "https://assignment43-beta.vercel.app/:match*"
     },
     {
       "source": "/",
