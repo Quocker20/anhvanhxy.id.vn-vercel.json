@@ -50,12 +50,20 @@
       "destination": "https://assignment43-beta.vercel.app/:match*"
     },
     {
+      "source": "/portfolio/",
+      "destination": "https://quocker20-github-io.vercel.app/"
+    },
+    {
+      "source": "/portfolio/:match*",
+      "destination": "https://quocker20-github-io.vercel.app/:match*"
+    },
+    {
       "source": "/",
-      "destination": "https://html-assignment-tan.vercel.app/"
+      "destination": "https://quocker20-github-io.vercel.app/"
     },
     {
       "source": "/:match*",
-      "destination": "https://html-assignment-tan.vercel.app/:match*"
+      "destination": "https://quocker20-github-io.vercel.app/:match*"
     }
   ]
 }
