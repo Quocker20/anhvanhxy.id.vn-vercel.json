@@ -58,6 +58,26 @@
       "destination": "https://quocker20-github-io.vercel.app/:match*"
     },
     {
+      "source": "/vi/",
+      "destination": "https://quocker20-github-io.vercel.app/vi/"
+    },
+    {
+      "source": "/projects/next-best-product-recommendation/",
+      "destination": "https://quocker20-github-io.vercel.app/projects/next-best-product-recommendation/"
+    },
+    {
+      "source": "/projects/remindrx/",
+      "destination": "https://quocker20-github-io.vercel.app/projects/remindrx/"
+    },
+    {
+      "source": "/vi/projects/next-best-product-recommendation/",
+      "destination": "https://quocker20-github-io.vercel.app/vi/projects/next-best-product-recommendation/"
+    },
+    {
+      "source": "/vi/projects/remindrx/",
+      "destination": "https://quocker20-github-io.vercel.app/vi/projects/remindrx/"
+    },
+    {
       "source": "/",
       "destination": "https://quocker20-github-io.vercel.app/"
     },
