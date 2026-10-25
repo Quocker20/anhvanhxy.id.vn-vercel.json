@@ -50,6 +50,14 @@
       "destination": "https://demo-nbp.vercel.app/:match*"
     },
     {
+      "source": "/js-assignment-4-2/",
+      "destination": "https://assignment42-one.vercel.app/"
+    },
+    {
+      "source": "/js-assignment-4-2/:match*",
+      "destination": "https://assignment42-one.vercel.app/:match*"
+    },
+    {
       "source": "/",
       "destination": "https://html-assignment-tan.vercel.app/"
     },
